@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577743611363",
+    "project_id": "chats-with",
+    "storage_bucket": "chats-with.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577743611363:android:bd38fe3b2d6881efa7acd6",
+        "android_client_info": {
+          "package_name": "com.djsmk.chatwith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577743611363-get5rj09hdmt31eqkkk52jqo35r5g0dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByYP0hEANRRRHeb9LJhVE6DNIYngZ9Pkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577743611363-get5rj09hdmt31eqkkk52jqo35r5g0dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
