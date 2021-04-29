@@ -7,6 +7,6 @@ Download apk from here:https://drive.google.com/file/d/1A40Nsj3yEMJR1kd6iO5M6dHg
 and you can also build app from given source code.
 
 
----Thanksyou.
+---Thankyou.
 
 
